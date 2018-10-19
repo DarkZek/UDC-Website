@@ -1,0 +1,33 @@
+body {
+  background-color: #36393f !important;
+  overflow-x: hidden;
+}
+p,h3,h2,h1,a,li {
+  color: white !important;
+}
+header {
+  background-color: #2f3136;
+  margin-bottom: 30px;
+  padding-top: 10px;
+}
+
+
+.h-logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.center {
+  font-size: center;
+}
+.img-responsive {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.t-center {
+  text-align: center;
+}
